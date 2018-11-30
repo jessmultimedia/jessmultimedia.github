@@ -1,0 +1,208 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="jessmultimedia.com" resolutions="1x" timestamp="1542597205532">
+  <folder name="css">
+    <file name="site_global.css" crc="262642590"/>
+    <file name="master_a-p_g_-maestra.css" crc="3856872280" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="portafolio.css" crc="3825529760" ref="portafolio"/>
+    <file name="index.css" crc="4248706886" ref="index"/>
+    <file name="sobre-mi.css" crc="3801325131" ref="sobre-mi"/>
+    <file name="contacto.css" crc="3977939256" ref="contacto"/>
+  </folder>
+  <folder name="assets">
+    <file name="(4)-jessica-gonzález.html" crc="4016159857" seo="true" mt="1541697530000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="museutils.js" crc="3803043152" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="museconfig.js" crc="4173490262" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="jquery.watch.js" crc="99325471" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="portafolio:index:sobre-mi"/>
+    <file name="webpro.js" crc="242022427" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portafolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portafolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portafolio"/>
+    <file name="require.js" crc="4157109226" ref="portafolio:index:sobre-mi:contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3818481017" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="sin-título-4.svg" crc="4190000626" seo="true" ref="portafolio:index:sobre-mi:contacto">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="sin título-4_poster_.png" crc="4161417132" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="e4c509193a0f2f579aec4eb6a30a98d5.jpg" crc="3765562975" ref="portafolio:index:sobre-mi">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="18814971_10203109330290883_3019972769293349320_o-u3018-fr.jpg" crc="4127673629" ref="portafolio"/>
+    <file name="best-u3315-fr.jpg" crc="3955388150" ref="portafolio"/>
+    <file name="img_20181108_230314-u3367-fr.jpg" crc="4288672361" ref="portafolio"/>
+    <file name="21616328_10203520725735512_1381900259159937927_n.jpg" crc="4198537374" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_230034.jpg" crc="3976207418" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_230339-u3373-fr.jpg" crc="3957927477" ref="portafolio"/>
+    <file name="25550408_10203863586506817_6550262390090465730_n-u3019-fr.jpg" crc="253575259" ref="portafolio"/>
+    <file name="img_20181108_230250.jpg" crc="36699585" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_230351.jpg" crc="41432571" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="25550408_10203863586506817_6550262390090465730_n-u3078-fr.jpg" crc="445651281" ref="portafolio"/>
+    <file name="18814971_10203109330290883_3019972769293349320_o.jpg" crc="4030169919" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portafolio"/>
+    <file name="25550408_10203863586506817_6550262390090465730_n.jpg" crc="4104869426" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="best.jpg" crc="140026393" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_2300342.jpg" crc="3807008209" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_2302502.jpg" crc="487576477" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_230314.jpg" crc="4112996400" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_230339.jpg" crc="4115767355" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="img_20181108_2303512.jpg" crc="46538348" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="615px-photoshop_cc_icon.png" crc="420084755" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="sin título-1-u3431-r-fr.png" crc="4220782910" ref="portafolio"/>
+    <file name="adobe_indesign_cc_iconsvg.png" crc="338190525" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-16 133206-u3433-r-fr.png" crc="93510716" ref="portafolio"/>
+    <file name="ksdjfa.jpg" crc="3877816745" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="transicion-dia-nocheultimo.gif" crc="4288910332" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="illustrator_cc_icon.png" crc="41370128" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="timiporfin.png" crc="4179704516" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="adobe_after_effects_cc_icon.png" crc="3894455903" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="479163-adobe-premiere-pro.jpg" crc="343641303" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="sin título-1.png" crc="3976268939" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080712-crop-u4848.png" crc="450426315" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-16 133206.png" crc="4003585364" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080423-crop-u5137.png" crc="86897394" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080433-crop-u5157.png" crc="3838674197" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080442-crop-u5177.png" crc="4103958875" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080458-crop-u5197.png" crc="70047246" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080511-crop-u5217.png" crc="201337609" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080525-crop-u5237.png" crc="3781750187" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080537-crop-u5257.png" crc="4083847067" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080547-crop-u5277.png" crc="202311932" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080605-crop-u5297.png" crc="296288752" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080638-crop-u5317.png" crc="3789812007" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080650-crop-u5337.png" crc="479927204" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080724-crop-u5357.png" crc="3929810188" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080733-crop-u5377.png" crc="257238771" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-11-17 080742-crop-u5397.png" crc="8069259" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="carlitos.png" crc="4121009384" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="noche.png" crc="350298887" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="sin título-5.png" crc="478826519" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="sin título-6-crop-u5749.png" crc="4212655338" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="timiporfin2.png" crc="4116775556" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="logo_facebook.svg" crc="3886503056" seo="true" ref="portafolio:index:sobre-mi:contacto">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="logo_facebook_poster_.png" crc="4294241946" ref="portafolio:index:sobre-mi:contacto"/>
+    <file name="pop-crop-u1400.png" crc="515758888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carlitos-crop-u1392.png" crc="167032811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin título-5-crop-u1444.png" crc="4141349442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="best-crop-u1460.jpg" crc="405074715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1383-4.png" crc="4292907975" ref="sobre-mi"/>
+    <file name="img_1601.jpg" crc="102542964" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+  </folder>
+  <file name="portafolio.html" crc="146221652" seo="true" mt="1542597100911" redirect="true"/>
+  <file name="index.html" crc="3778019909" seo="true" mt="1542597100911" redirect="true"/>
+  <file name="sobre-mi.html" crc="385573219" seo="true" mt="1542597100911" redirect="true"/>
+  <file name="contacto.html" crc="200498413" seo="true" mt="1542597100911" redirect="true"/>
+</manifest>
